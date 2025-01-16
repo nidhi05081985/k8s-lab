@@ -1,0 +1,4 @@
+logs/
+*.notes
+pattern*/
+.idea/
